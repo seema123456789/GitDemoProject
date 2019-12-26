@@ -10,6 +10,8 @@ public class StringCheck {
 		//System.out.println(s1);//npe
 		System.out.println(s2.equals(s));//false
 		System.out.println(s.equals(s2));//npe
+		
+		System.out.println("my name is seema");
 
 
 
